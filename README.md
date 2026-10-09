@@ -7,7 +7,8 @@ Website portofolio statis dengan penekanan Front-end Developer. Tidak membutuhka
 - Profil, foto, dan penekanan React / Next.js / JavaScript / TypeScript.
 - How I Work: UI dan user flows, integrasi API, debugging dan reliability.
 - Personal demo dashboard React: pencarian, filter status, pengurutan, detail proyek, dan empty state. Seluruh data demo fiktif.
-- Pengalaman, kontak email, GitHub, dan CV PDF.
+- Published Apps: Wellio dan Tanami, ikon asli, Google Play, dan source code.
+- Pengalaman, kontak email, LinkedIn, GitHub, dan CV PDF.
 
 ## Preview lokal
 
@@ -34,4 +35,8 @@ Alternatif tanpa Actions: pilih **Deploy from a branch**, branch `main`, folder 
 
 Konten proyek mobile tidak diklaim sebagai proyek React web. Pengalaman React sekitar lima tahun berasal dari informasi yang diberikan pemilik portofolio. Proyek di bawah NDA hanya dijelaskan secara umum.
 
-Website belum dipublikasikan; workflow siap dipakai setelah isi folder masuk ke repository GitHub.
+Website: https://mfirmansyahidris.github.io/portfolio/
+
+Repository: https://github.com/mfirmansyahidris/portfolio
+
+GitHub Pages menggunakan GitHub Actions. Setiap push ke `main` memperbarui situs.
