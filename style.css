@@ -13,3 +13,5 @@
 .linkedin-icon{width:20px;height:20px;flex-shrink:0}.nav-cv,.contact-links a[href*="linkedin.com"]{display:inline-flex;align-items:center;gap:8px}.app-identity{display:flex;align-items:center;gap:16px;margin-bottom:20px}.app-identity img{width:64px;height:64px;object-fit:cover;border-radius:15px;flex-shrink:0}.published-card .app-identity h3{margin:0}.stack-band p{flex-wrap:wrap}@media(max-width:1100px){.stack-band .wrap{flex-wrap:wrap}.stack-band p{line-height:2}}
 
 .profile-tags{flex-wrap:wrap}
+
+.experience-heading{display:flex;align-items:baseline;justify-content:space-between;gap:10px;flex-wrap:wrap}.experience-heading h4{margin:0}.experience-heading time{font: .72rem var(--mono);color:var(--blue);white-space:nowrap}@media(max-width:700px){.experience-heading{display:block}.experience-heading time{display:block;margin-top:5px}}
