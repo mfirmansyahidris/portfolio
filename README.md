@@ -1,6 +1,6 @@
 # Firmansyah Idris — Portfolio
 
-Website portofolio statis dengan penekanan Front-end Developer. Tidak membutuhkan instalasi dependency atau proses build. Semua aset memakai path relatif, sehingga bisa digunakan di GitHub Pages untuk repository biasa maupun repository profil.
+Website portofolio statis dengan penekanan Full Stack & Mobile Developer. Tidak membutuhkan instalasi dependency atau proses build. Semua aset memakai path relatif, sehingga bisa digunakan di GitHub Pages untuk repository biasa maupun repository profil.
 
 ## Isi
 
