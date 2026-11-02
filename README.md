@@ -4,11 +4,11 @@ Website portofolio statis dengan penekanan Full Stack & Mobile Developer. Tidak 
 
 ## Isi
 
-- Profil, foto, dan penekanan React / Next.js / JavaScript / TypeScript.
-- How I Work: UI dan user flows, integrasi API, debugging dan reliability.
+- Profil, foto, dan penekanan Flutter / React / Node.js / TypeScript.
+- Skills & Approach: UI dan user flows, API dan data, debugging dan reliability.
 - Personal demo dashboard React: pencarian, filter status, pengurutan, detail proyek, dan empty state. Seluruh data demo fiktif.
-- Published Apps: Wellio dan Tanami, ikon asli, Google Play, dan source code.
-- Pengalaman, kontak email, LinkedIn, GitHub, dan CV PDF.
+- Published Apps: Wellio, Tanami, dan One Sunnah, dengan ikon asli, tautan Google Play, dan source code bila tersedia.
+- Pengalaman (delapan peran dengan tech stack), kontak email, LinkedIn, GitHub, dan CV PDF.
 
 ## Preview lokal
 
@@ -33,7 +33,7 @@ Alternatif tanpa Actions: pilih **Deploy from a branch**, branch `main`, folder 
 - `assets/profile.png`: foto profil.
 - `assets/Firmansyah-Idris-CV.pdf`: CV yang dibuka pengunjung.
 
-Konten proyek mobile tidak diklaim sebagai proyek React web. Pengalaman React sekitar lima tahun berasal dari informasi yang diberikan pemilik portofolio. Proyek di bawah NDA hanya dijelaskan secara umum.
+Pengalaman React sekitar lima tahun berasal dari informasi yang diberikan pemilik portofolio. Proyek klien di bawah NDA hanya dijelaskan secara umum.
 
 Website: https://mfirmansyahidris.github.io/portfolio/
 

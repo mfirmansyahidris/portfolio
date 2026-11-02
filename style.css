@@ -24,4 +24,4 @@
 
 .experience-row>span{display:block}.experience-stack{display:flex;flex-wrap:wrap;gap:6px;list-style:none;padding:0;margin:10px 0 0}.experience-stack li{font:.68rem var(--mono);color:#cfe4e6;background:#2d3a40;border:1px solid #43525a;border-radius:4px;padding:2px 8px}
 
-.published-grid{grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}.app-icon-fallback{display:grid;place-items:center;width:64px;height:64px;flex-shrink:0;border-radius:15px;background:#303e43;border:1px solid #50646a;color:var(--blue);font:700 1.3rem var(--mono)}
+.published-grid{grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
